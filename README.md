@@ -1,3 +1,8 @@
+<h1 align='center'>Hi 👋, I'm Smit Lodhiya</h1>
+<h3 align='center'>A passionate full stack developer from India</h3>
+
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400">
+
 # 💫 About Me:
 🔭 I’m currently working on ReactJS<br>💬 Ask me about Full Stack<br>📫 How to reach me smitlodhiya1110@gmail.com<br>⚡ Fun fact I am Funny
 
