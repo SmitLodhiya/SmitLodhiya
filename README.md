@@ -1,7 +1,7 @@
 <h1 align='center'>Hi 👋, I'm Smit Lodhiya</h1>
 <h3 align='center'>A passionate full stack developer from India</h3>
 
-<img align="right" src="https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" alt="Coding" data-canonical-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="width:400 ;display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" src="https://camo.githubusercontent.com/f1f2bc6e7ec110b34bab4ec55aa5c93ebae552ae011f5756bd7b7f783d627a6d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" alt="Coding" data-canonical-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="width:50% ;display: inline-block;" data-target="animated-image.originalImage">
 
 # 💫 About Me:
 🔭 I’m currently working on ReactJS<br>💬 Ask me about Full Stack<br>📫 How to reach me smitlodhiya1110@gmail.com<br>⚡ Fun fact I am Funny
